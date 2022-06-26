@@ -1,0 +1,3 @@
+Workout tracking App
+Duration - 3 weeks
+Techstack - HTML,CSS,JS,React,NodeJS,Express,MongoDB
